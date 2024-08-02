@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>Sample3DProject</Name>
+        <Assembly>Sample3DProject/Sample3DProject.dll</Assembly>
+        <AddInId>9DEA4B6B-57F3-4909-A67F-637700ACC0E3</AddInId>
+        <FullClassName>Sample3DProject.ExAp</FullClassName>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+</RevitAddIns>
