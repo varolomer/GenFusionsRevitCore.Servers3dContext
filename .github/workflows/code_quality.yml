@@ -22,7 +22,7 @@ jobs:
           fetch-depth: 0  # a full history is required for pull request analysis
       - name: 'Qodana Scan'
         uses: JetBrains/qodana-action@v2024.1
-        dot-net:
+        dotnet:
             solution: GenFusionsRevitCore.Servers3dContext.Sln.sln
         env:
           QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }}
