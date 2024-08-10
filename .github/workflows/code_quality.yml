@@ -23,6 +23,6 @@ jobs:
       - name: 'Qodana Scan'
         uses: JetBrains/qodana-action@v2024.1
         dotnet:
-            solution: GenFusionsRevitCore.Servers3dContext.Sln.sln
+            solution: ../../GenFusionsRevitCore.Servers3dContext.Sln.sln
         env:
           QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }}
