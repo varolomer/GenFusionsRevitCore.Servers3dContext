@@ -24,6 +24,7 @@ The package is useful for debugging purposes when the plugins or workflows which
 6. [C++ Devs](#c-devs)
 7. [Next Steps (New Packages)](#next-steps-new-packages)
 8. [Autodesk License](#autodesk-license)
+9. [Thanks](#thanks)
 
 # What is DirectContext3D?
 DirectContext3D in RevitAPI can be used to display external graphical objects directly in Revit views.
@@ -176,5 +177,5 @@ Apart from this library, I am planning to publish some other libraries when I ha
 # Autodesk License
 Please ensure that you adhere to Autodesk's usage permissions and licenses when using the API to avoid violating any terms of the service and platform agreements. This library is developed as a personal project to help the developers and is intended to facilitate debugging in geometry-oriented projects.
 
-
-
+# Thanks
+Many thanks to [Nice3point](https://github.com/Nice3point) for the nice Revit templates and his invaluable contributions. Also many thanks to [jeremytammik](https://github.com/jeremytammik) for great resources and samples.
