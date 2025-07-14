@@ -71,6 +71,7 @@ sealed partial class Build
         else if (config.Contains("R23")) return "2023";
         else if (config.Contains("R24")) return "2024";
         else if (config.Contains("R25")) return "2025";
+        else if (config.Contains("R26")) return "2026";
         else return null;
     }
 
